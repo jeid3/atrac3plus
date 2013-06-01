@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'atrac3plus' target in the 'atrac3plus' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
